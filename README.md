@@ -1,5 +1,4 @@
 🏢 Real Estate Dashboard
-
 📌 Project Overview
 
 The Real Estate Dashboard is a data visualization project designed to analyze and present real estate business performance in a clear and interactive way.
@@ -55,4 +54,6 @@ Type: Real estate sales and property data
 
 Format: CSV & Excel files
 
-Usage: Analysis, aggregation, and visualization in Power BI<img width="1183" height="663" alt="Screenshot" src="https://github.com/user-attachments/assets/62d236c6-4d9d-4490-8d9c-3a60f7e87636" />
+Usage: Analysis, aggregation, and visualization in Power BI
+
+<img width="1183" height="663" alt="Screenshot" src="https://github.com/user-attachments/assets/ce68f242-c7e7-4509-b4c9-66856f910921" />
