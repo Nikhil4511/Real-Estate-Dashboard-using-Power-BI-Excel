@@ -54,11 +54,11 @@ Type: Real estate sales and property data
 
 Format: CSV & Excel files
 
-Usage: Analysis, aggregation, and visualization in Power BI
+Usage: Analysis, aggregation, and visualization in Power BI analysis
 
 <img width="1183" height="663" alt="Screenshot" src="https://github.com/user-attachments/assets/ce68f242-c7e7-4509-b4c9-66856f910921" />
 
-analysis
+
 
 🏁 Conclusion
 
