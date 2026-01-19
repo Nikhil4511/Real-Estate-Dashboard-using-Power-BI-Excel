@@ -1,67 +1,67 @@
-🏢 Real Estate Dashboard
+## 🏢 Real Estate Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
 
 The Real Estate Dashboard is a data visualization project designed to analyze and present real estate business performance in a clear and interactive way.
 It helps stakeholders understand revenue, expenses, profit, sales trends, top-performing properties, and country-wise performance using an intuitive dashboard.
 
 This project focuses on data-driven decision making, following the traditional principle that numbers tell the real story—but presented with modern BI tools.
 
-🎯 Objectives
+## 🎯 Objectives
 
-Analyze real estate sales and revenue trends
+- Analyze real estate sales and revenue trends
 
-Track expenses, profit, and sold properties
+- Track expenses, profit, and sold properties
 
-Identify top-performing countries, agents, and properties
+- Identify top-performing countries, agents, and properties
 
-Present complex data in a clean, visual, and easy-to-understand dashboard
+- Present complex data in a clean, visual, and easy-to-understand dashboard
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
-Python – Data preprocessing and analysis
+- Python – Data preprocessing and analysis
 
-MS Excel – Initial data cleaning and organization
+- MS Excel – Initial data cleaning and organization
 
-Power BI – Dashboard creation and data visualization
+- Power BI – Dashboard creation and data visualization
 
-📊 Key Features
+## 📊 Key Features
 
-🌍 Country-wise Revenue Analysis
+- 🌍 Country-wise Revenue Analysis
 
-📅 Monthly Revenue Trends
+- 📅 Monthly Revenue Trends
 
-📈 Quarterly Expense Analysis
+- 📈 Quarterly Expense Analysis
 
-🏠 Top Selling Property Identification
+- 🏠 Top Selling Property Identification
 
-👥 Top Agents by Revenue
+- 👥 Top Agents by Revenue
 
-💰 KPIs:
+## 💰 KPIs:
 
-Total Revenue
+- Total Revenue
 
-Total Expenses
+- Total Expenses
 
-Net Profit
+- Net Profit
 
-Sold Properties
+- Sold Properties
 
-🗂️ Dataset Information
+## 🗂️ Dataset Information
 
-Source: Kaggle
+- Source: Kaggle
 
-Type: Real estate sales and property data
+- Type: Real estate sales and property data
 
-Format: CSV & Excel files
+- Format: CSV & Excel files
 
-Usage: Analysis, aggregation, and visualization in Power BI analysis
+- Usage: Analysis, aggregation, and visualization in Power BI analysis
 
+## Screenshot
 <img width="1183" height="663" alt="Screenshot" src="https://github.com/user-attachments/assets/ce68f242-c7e7-4509-b4c9-66856f910921" />
 
 
 
-🏁 Conclusion
-
+## Conclusion
 This project demonstrates how raw real estate data can be transformed into meaningful business insights using classical analysis methods combined with modern visualization tools.
 
